@@ -1,1 +1,1 @@
-#dailyPractice
+# This contains practices of shell scripting and python codings for automation, this whole repository has been created in linux using github cli. This whole repo and adding of file is a practice to use version control using cli on linux and to showcase my practice for script automation as well.
